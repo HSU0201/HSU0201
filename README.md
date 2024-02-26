@@ -45,9 +45,7 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Hello+Ben,+From+Github&to=happymin0318@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsu0201&show_icons=true&locale=en&layout=compact" alt="hsu0201" /></p>
 
 <hr>
 
